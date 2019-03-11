@@ -1,0 +1,1 @@
+Find length of shortest word in string.
